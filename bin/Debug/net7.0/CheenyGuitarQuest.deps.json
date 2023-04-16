@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CheenyGuitarQuest/1.0.0": {
+        "runtime": {
+          "CheenyGuitarQuest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheenyGuitarQuest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

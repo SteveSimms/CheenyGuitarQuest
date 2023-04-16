@@ -1,0 +1,15 @@
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/bin/Debug/net7.0/CheenyGuitarQuest
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/bin/Debug/net7.0/CheenyGuitarQuest.deps.json
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/bin/Debug/net7.0/CheenyGuitarQuest.runtimeconfig.json
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/bin/Debug/net7.0/CheenyGuitarQuest.dll
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/bin/Debug/net7.0/CheenyGuitarQuest.pdb
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/obj/Debug/net7.0/CheenyGuitarQuest.csproj.AssemblyReference.cache
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/obj/Debug/net7.0/CheenyGuitarQuest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/obj/Debug/net7.0/CheenyGuitarQuest.AssemblyInfoInputs.cache
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/obj/Debug/net7.0/CheenyGuitarQuest.AssemblyInfo.cs
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/obj/Debug/net7.0/CheenyGuitarQuest.csproj.CoreCompileInputs.cache
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/obj/Debug/net7.0/CheenyGuitarQuest.dll
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/obj/Debug/net7.0/refint/CheenyGuitarQuest.dll
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/obj/Debug/net7.0/CheenyGuitarQuest.pdb
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/obj/Debug/net7.0/CheenyGuitarQuest.genruntimeconfig.cache
+/Users/steve/Code/dotnetSandbox/CheenyGuitarQuest/obj/Debug/net7.0/ref/CheenyGuitarQuest.dll
