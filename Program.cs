@@ -1,7 +1,5 @@
-﻿// user should be asked their name and age
-// user should be promppted to enter their name and age
-// if user is under 18, they should be told to take guitar lessons and stay in school
-// if user is over 18, they should be told to Take lessons Jam on guitar more and be downwith the autobots and presented with a list of guitar brands and links to cool guitar solos on youtube
+﻿//TODO: Use this code as an example you can modify it to fit your needs or use it as a reference to create your own program.
+//See the instructions.md file to get a step by step guide on how to create your own program.
 string name;
 int age;
 
@@ -10,28 +8,20 @@ name = Console.ReadLine();
 Console.WriteLine("What is your age?");
 age = int.Parse(Console.ReadLine());
 
-User newUser = new User(name, age);
 
-Console.WriteLine($"Hello {newUser.Name}, you are {newUser.Age} years old");
+Console.WriteLine($"Hello {name}, you are {age} years old");
 
- if (newUser.Age < 18)
+ if (age < 18)
  {
-     Console.WriteLine("That's great {user.Name}, Take guitar lessons and stay in school");
+     Console.WriteLine("That's great {name}, Take guitar lessons and stay in school");
  }
- else if (newUser.Age > 18)
+ else if (age > 18)
  {
-     Console.WriteLine($"That's great {newUser.Name}. Take lessons, Jam on guitar more and be down with the auto-bots");
+     Console.WriteLine($"That's great {name}. Take lessons, " +
+                       $"Jam on guitar more and be down with the auto-bots," +
+                       $" click one of these links and be inspired to shred!" +
+                       $"https://www.youtube.com/watch?v=VcwI04mIN8k, https://www.youtube.com/watch?v=O7MPxu0Us5Q");
  }
 
  
  
- public class User
- {
-     public User(string name, int age)
-     {
-         Name = name;
-         Age = age;
-     }
-     public string Name { get; set; } = String.Empty;
-     public int Age { get; set; }
- }
